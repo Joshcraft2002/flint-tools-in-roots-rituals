@@ -1,0 +1,12 @@
+{
+    "id": "flint-tools-in-roots-rituals",
+    "name": "Flint Tools in Roots Rituals",
+    "version": "1.0.0-1.20.1",
+    "output": "build",
+    "data_pack": {
+        "pack_format": 15,
+        "description": "Replaces wooden tools in Roots Classic rituals with flint tools from No Tree Punching",                 
+        "load": ["."],
+        "zipped": true
+    }
+}
